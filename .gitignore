@@ -1,0 +1,13 @@
+# Root folders
+/node_modules
+/.vscode
+
+# Client folders
+/client/node_modules
+/client/.env
+
+# Server folders
+/server/node_modules
+/server/.env
+/server/src/generated
+/server/logs
